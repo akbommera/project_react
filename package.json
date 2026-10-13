@@ -2,9 +2,8 @@
   "name": "project_react",
   "version": "1.0.0",
   "description": "This is Project_React By Akshaykumar",
-  "source": "app.js",
-  "main": "dist/app.js",
   "scripts": {
+    "start": "parcel index.html",
     "test": "jest"
   },
   "repository": {
